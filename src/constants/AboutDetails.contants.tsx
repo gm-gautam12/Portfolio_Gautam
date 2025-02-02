@@ -1,6 +1,5 @@
 import { cf, zs, instinger, college } from "../assets/images";
 import {
-    car,
     contact,
     css,
     estate,
