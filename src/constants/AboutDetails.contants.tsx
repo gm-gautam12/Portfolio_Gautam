@@ -22,7 +22,6 @@ import {
     yt,
     summiz,
     tailwindcss,
-    threads,
     typescript
 } from "../assets/icons";
 
