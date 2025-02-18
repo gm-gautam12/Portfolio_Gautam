@@ -2,7 +2,7 @@ import { useRef, useEffect } from 'react'
 import { useGLTF, useAnimations } from '@react-three/drei'
 import * as Three from 'three';
 
-import foxScene from '../assets/3d/fox.glb'
+import foxScene from '../assets/3d/fox.glb';
 
 type foxProps = {
     currentAimation: string;

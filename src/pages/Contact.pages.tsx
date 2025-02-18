@@ -22,7 +22,6 @@ const Contact: React.FC = () => {
 
     const {alert,showAlert,hideAlert} = useAlert();
 
-    const formRef = useRef<HTMLFormElement>(null);
 
     const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
         setFormData(

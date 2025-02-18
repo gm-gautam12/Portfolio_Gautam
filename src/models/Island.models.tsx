@@ -176,12 +176,6 @@ const Island = ({isRotating, setIsRotating,setCurrentStage, ...props}: IslandPro
 
 
 
-
-
-
-
-
-
   return (
     <a.group ref={islandRef} {...props}>
       <mesh
